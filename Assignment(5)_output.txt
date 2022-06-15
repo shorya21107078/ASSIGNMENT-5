@@ -1,0 +1,104 @@
+Enter the string to reverse: 
+shorya 21107078
+87070112 ayrohs
+enter the number: 
+4
+enter the first value of range: 
+1
+enter the last value of range: 
+29
+4
+8
+12
+16
+20
+24
+28
+Enter first side: 
+4
+Enter second side: 
+5
+Enter third side: 
+6
+Area of the triangle is:  9.922
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+enter the no. of rows: 
+10
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+P Q R S T U 
+V W X Y Z A B 
+C D E F G H I J 
+K L M N O P Q R S 
+T U V W X Y Z A B C 
+Enter the starting value of range: 
+1
+Enter the end value of range: 
+29
+1
+2
+3
+5
+7
+11
+13
+17
+19
+23
+0
+77
+154
+231
+308
+385
+462
+Enter the 10 no. for list
+Enter the 1 no. for list
+-4
+Enter the 2 no. for list
+-5
+Enter the 3 no. for list
+-8
+Enter the 4 no. for list
+2
+Enter the 5 no. for list
+3
+Enter the 6 no. for list
+6
+Enter the 7 no. for list
+6
+Enter the 8 no. for list
+6
+Enter the 9 no. for list
+3
+Enter the 10 no. for list
+2
+list entered [-4, -5, -8, 2, 3, 6, 6, 6, 3, 2]
+positive no. 
+ {2, 3, 6}
+negative no.
+ {-8, -5, -4}
+odd no.
+ {3, -5}
+even no.
+ {-8, 2, -4, 6}
+No. of occurrence is {-4: 1, -5: 1, -8: 1, 2: 2, 3: 2, 6: 3}
+Enter the words: 
+ball ball hockey ball bat hockey bat basket ball 
+{'ball': 4, 'hockey': 2, 'bat': 2, 'basket': 1}
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
